@@ -1,0 +1,16 @@
+    {
+      "description": "AKCord's Portfolio",
+      "domain": "is-cool.dev",
+      "subdomain": "akcord",
+  
+      "owner": {
+          "repo": "https://github.com/AKCord/",
+          "email": "shrestha.aeniv@gmail.com"
+      },
+  
+      "record": {
+          "CNAME": "https://akcordd.netlify.app/"
+      },
+  
+      "proxied": false
+  }
